@@ -1,1 +1,2 @@
 # laravel_todolist
+Dans ce workshop vous allez réaliser une application / site web, le but de cette application / site web est de faire de la prise de note de « TODO » ou aussi appelée liste de tâches.
